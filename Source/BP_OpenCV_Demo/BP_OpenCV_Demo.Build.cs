@@ -1,4 +1,10 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+/*
+*  Copyright (c) 2020-2021 Damody(t1238142000@gmail.com).
+*  All rights reserved.
+*  @ Date : 2021/05/17
+*
+*/
+
 
 using UnrealBuildTool;
 
